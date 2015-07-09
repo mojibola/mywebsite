@@ -1,0 +1,25 @@
+div {
+    height:50px;
+    width:120px;
+    border-color:#6495ed;
+    border-radius:5px;
+    text-align:center;
+    display:inline-block;
+    margin:auto;
+}
+
+img {
+  display:block;
+	height:200px;
+	width:300px;
+  margin:auto;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+}
+
+h1 {
+  font-family:Cursive;
+  font-weight: bold;
+  text-align:center;
+}
+
+
